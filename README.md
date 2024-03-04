@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client_logo.png" alt="client image" width="150" height="180">
+  <img src="client_logo.png" alt="client image" width="150" height="160">
 </p>
 
 # Project name
